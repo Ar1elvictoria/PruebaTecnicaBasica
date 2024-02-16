@@ -24,5 +24,3 @@ const mediaSlice = createSlice({
 export const { watchSeries, watchMovies } = mediaSlice.actions;
 
 export default mediaSlice.reducer;
-
-
